@@ -1,4 +1,4 @@
-## ||Desafio DIO||
+## ||Desafio 2 DIO||
 
 
 Desafiado elaborar um código que consistia em criar uma função capaz de receber como parâmetros a quantidade de vitórias e derrotas de um jogador.
